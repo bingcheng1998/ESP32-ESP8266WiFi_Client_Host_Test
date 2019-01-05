@@ -30,10 +30,12 @@
 <table>
     <tr>
         <td ><center><img src="https://ws2.sinaimg.cn/large/006tNc79ly1fyvhgwppz6j30rs0xcdi3.jpg" >图1  Arduino 程序界面 </center></td>
-        <td ><center><img src="https://ws2.sinaimg.cn/large/006tNc79ly1fyvho4xc3xj30x60ne0vb.jpg"  >图2 ESP8266 设置</center></td>
+        <td ><center><img src="https://ws4.sinaimg.cn/large/006tNc79ly1fyvhnghwduj310c0kw0u8.jpg"  >图2 ESP8266 设置</center></td>
         <td ><center><img src="https://ws2.sinaimg.cn/large/006tNc79ly1fyvho4xc3xj30x60ne0vb.jpg"  >图3 ESP32 设置</center></td>
     </tr>
 </table>
+
+
 ## Processing 端界面
 
 <table>
